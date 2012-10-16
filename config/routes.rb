@@ -3,6 +3,7 @@ SampleProject::Application.routes.draw do
 
   get "static_pages2/help2"
 
+  get "static_pages2/about"
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
